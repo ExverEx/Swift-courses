@@ -47,14 +47,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		486D4FB12305B0DB00D1EC31 /* New Group */ = {
+		486D4FB12305B0DB00D1EC31 /* Controllers */ = {
 			isa = PBXGroup;
 			children = (
 				48D03D1022FEE1AB00ECD83C /* ViewController.swift */,
 				486D4FBA2305BACA00D1EC31 /* FriendsList */,
 				486D4FB42305B2CA00D1EC31 /* FriendsVC */,
 			);
-			path = "New Group";
+			path = Controllers;
 			sourceTree = "<group>";
 		};
 		486D4FB42305B2CA00D1EC31 /* FriendsVC */ = {
@@ -97,7 +97,7 @@
 			isa = PBXGroup;
 			children = (
 				48D03D0E22FEE1AB00ECD83C /* AppDelegate.swift */,
-				486D4FB12305B0DB00D1EC31 /* New Group */,
+				486D4FB12305B0DB00D1EC31 /* Controllers */,
 				48D03D1222FEE1AB00ECD83C /* Main.storyboard */,
 				48D03D1522FEE1AD00ECD83C /* Assets.xcassets */,
 				48D03D1722FEE1AD00ECD83C /* LaunchScreen.storyboard */,
